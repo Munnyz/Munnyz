@@ -40,3 +40,6 @@
 - 📖 **Análise e Desenvolvimento de Sistemas**\
 📆 2019 - 2021\
 📍 **Universidade Estácio de Sá** - Rio de Janeiro, Brasil
+
+
+![snake gif](https://github.com/munnyz/munnyz/blob/output/github-contribution-grid-snake.svg)
