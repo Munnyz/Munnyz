@@ -31,6 +31,7 @@
 </div>
 
 ##
+![snake gif](https://github.com/Munnyz/Munnyz/blob/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary>📃 Resumo</summary>
@@ -42,4 +43,3 @@
 📍 **Universidade Estácio de Sá** - Rio de Janeiro, Brasil
 
 
-![snake gif](https://github.com/munnyz/munnyz/blob/output/github-contribution-grid-snake.svg)
