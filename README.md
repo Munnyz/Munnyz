@@ -7,7 +7,7 @@
 - 😄 Pronomes: Ele/Dele </br>
 </h5>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Munnyz&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=munnyz&count_private=true" width="350"></a>
 </p>
 
 <div style="display: inline_block" align='center'><br>
