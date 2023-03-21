@@ -3,7 +3,7 @@
 </h1>
 <h5 align='center'>
 - 🔭 Hoje estou trabalho com Back-end </br>
-- 🌱 Estudando React.JS e Angular </br>
+- 🌱 Estudando React.JS</br>
 - 😄 Pronomes: Ele/Dele </br>
 </h5>
 <p align='center'>
