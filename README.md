@@ -3,11 +3,11 @@
 </h1>
 <h5 align='center'>
 - 🔭 Hoje estou trabalho com Back-end </br>
-- 🌱 Estudando React.JS e Angular </br>
+- 🌱 Estudando React.JS </br>
 - 😄 Pronomes: Ele/Dele </br>
 </h5>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=munnyz&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Munnyz&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <div style="display: inline_block" align='center'><br>
